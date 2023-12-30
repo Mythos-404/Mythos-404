@@ -3,9 +3,7 @@
     <a href="#"><img align="right" width="49%" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Mythos-404&theme=tokyonight"></a>
 </div>
 
-<div align="center">
-    <img src="./github-metrics.svg" alt="Metrics">
-</div>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 
 <!--
 **Mythos-404/Mythos-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
