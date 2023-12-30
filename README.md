@@ -1,9 +1,9 @@
+<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
+
 <div align="center">
     <a href="#"><img align="left" width="46%" alt="" src="https://github-readme-stats.zohan.tech/api?username=Mythos-404&show_icons=true&count_private=true&theme=tokyonight"></a>
     <a href="#"><img align="right" width="49%" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Mythos-404&theme=tokyonight"></a>
 </div>
-
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 
 <!--
 **Mythos-404/Mythos-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
