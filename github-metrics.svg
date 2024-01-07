@@ -2585,7 +2585,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAYFB//EACsQAAEDAgUDBAEFAAAAAAAAAAECAwQFEQAGEiExB0FREyJhcRQVJDJigf/EABcBAQADAAAAAAAAAAAAAAAAAAMCBAb/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADERIhMUEEE2Gx/9oADAMBAAIRAxEAPwAeQMn0KsUChepS4CpLzDCSpTCSXFKSOTa9+ST4BOKJ/p1QVVkxolJgSDYLShmKj3JIuFWNrDtv3BG9r4L00ps6XkymyKcl5JjRWXQ6E30KCALjzso3Hi/HONSKuc/OflJmsNOsoKZTbyC6lBC1HdOpJCDfUFWtuONr5O+20Phf2W6KUdMtzMSRkakJqRbXRqY2kqsErYQ3v4OoC3+4F1LyHSKBlypPIp1M1mEpbam0NlSFelcnbcWPBx0N6o/qkZMuW/S5CGEBv9k0RuP4hR1kbfAHOITqF+bMyrV5r6FlhUR5tCyLD2t8D6FsIjsHAJ7gOqqcDeN6eVCczk6itNtoDJgsg3A940g2OA5okevmaU3NkOR3/QQ5BWgghAsL2+CoKB7kD6xi5Or1GZy1SESa3AadTGaQW1yUgpISAQRfbGxXq7k6pxmIsuo050N3CHUS0pW2TyQq/nexBHxhApFjal2PySou9bajJ9FRlQ23FOOCPMZJLT8ZVkqF76fr4OKnNWapNU6VSEpJQw9T3ypvsFAKSqwvxdJt94mDS8oCoJQrOUUxCArSXmyobca9Vuf64bmrMGWV5NqdOhT6cgtQ3m2ENSEq1e02HNySTz3JwrqCVCjsdRfJvFmCOZ//2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>A Rare Realm</div>
@@ -2692,7 +2692,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jan 2024, 04:11:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jan 2024, 05:09:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
