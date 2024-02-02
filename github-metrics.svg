@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1921" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1952" class="">
     <defs>
         <style/>
     </defs>
@@ -2558,7 +2558,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        540 hours played
+                                        541 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2617,15 +2617,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAABwUGAAQIAQP/xAAxEAABAgUDAwIEBQUAAAAAAAABAgMABAUGEQchQRIxUWFxFCIyUggTFUJiIyWhscH/xAAaAQADAAMBAAAAAAAAAAAAAAADBAUAAQIG/8QAKREAAQMEAQEHBQAAAAAAAAAAAQACAwQFERIhMRQiNFFxgfAkMkJhkf/aAAwDAQACEQMRAD8A5VhJ083pKh/IwbGEjTxJ/SlH+RgM/wBirWXxPsVZ1oPUCeO8fBIznOxB29I23RkJIO4/zEhaNDeuK5ZSmtD+m6vDyvtTCjeV6iYBmXHoOSoRQBwM5X5jZbX9IP0/9ib1EtldoXN8CvJlCkFtzyTEAhQCt+Y24EcFcQSteN2ngqKvc/2J72gnEKt6qBobw9IKhDNPw1efvpBqBjyXsJumiUqpK8/cYMjCfpsM0deO/UYypOGLVhGasehVoeKUoURsIf8AQ+1kUCguVqpgImJgblY+lHBgn03tpy57oZZKSqVlyFvHjEK2utzooVsJodPWBMTCA0oJ7oRjYwGFoA3Kq3aYyvbSR9T1/QUnq3bUtedouTdPKXZuVBWypP7j4jlptakqLbuy0qLa08gjvDr+HW7ctuW5UXepafnaUs56ieIp2ulnqt66E1KUbKZCcVjPAX3MdvAcNwkaRzqaU0zvZEl3jNFe8Ygz4hPvBPTQ3vUQYcQSA91KXgETDPksMJ2m5UKOspH7j/uDHiF3SlrrormRyYHWHWPKJYT9WPQrrHRelSFNtND8q82884SXXRx6H2gn1mRQXq69NMzqp2pKHThCz0ox5ERDM1O0+WelpebcZaeTjCVEA+0Vwya1FbiwouZ3UrcmExVNcwNAVlluc2odO5+c/OVPaYtUE1+VeqU0uQnGV9TbqlkJUfGI6H1EpshWbLmW551sJ/Ky28rsD5EcrMSC3XglKfl755EWp6cqBpSKc7NuqlkbgKUSY32tsY1I6odRbzNK2UPxg/MI6vqXDVvzCEkKSglIV5A5gjhov9ARbD3sYFx2hmidszKlXzxA9F732ENWjjSV26tR2V1qECohCse9ZS3aIZZ2XW471E7HzGV0bpItWDJS9qnbBPu84GEyONpOAobiNN5OAUgpHvBbUdU5x1R+DZDY46gDFZn7yq84sqcfCc/aMROjt8v5cK6+907R3ckp5bclJZoiZdQ0fJMQ9SuujSoKVTjasesA8xUZyYPU9NOq9OsxqKKlH5iT7mGW20Zy5ynPvjs5Y3+pKvK8ZCpUlyUlkkk53zBpGERmNofihbC3VqlVNU+pdvJ1X//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAQYABAcCAwUI/8QAKhAAAgEDBAIBAwQDAAAAAAAAAQIDAAQRBQYSITFBMgcTURQiYZEVI6H/xAAaAQACAwEBAAAAAAAAAAAAAAABAwAEBQIG/8QAIREAAgICAgIDAQAAAAAAAAAAAAECAxEhBAUSMSJBYRP/2gAMAwEAAhEDEQA/APmjWNTm1K6+5NgYHoVQ5k+xQf5UMZI6wKnoOd7PV0Kw/wAjOUdsKO8U32u0eEyyBj9v8e6pbKtIl5TK3JsVp2nRK0QZu2H9VUuswYPYc2dUsREu/wBnLOiHmVA7OaQNZ06bSr17d+/YNfQbxqyYJUL6J90k77sLOawkeZCZYhyDL1mhTbjQnruynKfhMyLmwqzp17LZXaTxY5A+xVZgObBRkUFAyKufp6LRH+VAUX+VAe6nsL97Hza1zALdW6jx1g+zTzp16xVWBDY8YrE7O5a1njcciFOSuabtt6rPqNwYMMqDskHxVW2rJkcvr5Xy+JpT3hMbgsMnz/FKO+L+ODTnjZgXkXAFebvb9ZoaW0aTElzyz/FJF7ez3j/cuJOTHrH4oVUfZzR1H8Zqcise+6i/IUDnFRfmKt/htZX0Fzk91FBY4FR/NRSVOVqZI8s0nQdm29xo73cuW/ZnAPdeHs4/b124t40bzxA94zVCDc97Dpn6OOQqvs01bS3DDqFwiTWqC7QAB0UDNIkmk8ieHCcbH5s5fWI/7rIAeFH94rNRWmfWIAXFivFsnB/5XVY7OtL3Qlu1JBAye6NcviN5Vyrn8jN+8UU7Ndl1GYbiRB4ViK6wMNTkwRaewuf3UPYyeqt6jYz2Vx9u4jKkiqnA+xRb2HSJjvGaZNhEjWcqMt1il6KJpHCL5PunrakMGlxq8siCZj5pVjSixlaXmvIbvqTrNtpsdqz2olvuI4lgCo6/FZtHuq8W1miLcQ+ThegKft6DTde06FP1ccd6nYY1lmqWD6fdGB2WQgZ5L4NLpWYh5UFZLDWipJIZJGYnz2a4p8gB3U4n8VYsraW4uEigjJcmrGNCvXo//9k=" alt="" />
                             <div class="about">
-                                <div class="name">Apex Legends</div>
+                                <div class="name">Terraria</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, Free to Play
+                                        Action, Adventure, Indie, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2633,7 +2633,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        540 hours played
+                                        528 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2650,32 +2650,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 12 achievements unlocked
+                                            89 / 115 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMGCAT/xAAnEAABBAECBgIDAQAAAAAAAAABAgMEEQUGIQAHEhMxQUJRI1Jhgf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAdEQACAQUBAQAAAAAAAAAAAAABAgADERIhMSJB/9oADAMBAAIRAxEAPwDKvCjyt5fQslJx2S1nLTjsPJcthpaglyShIJW5RrpaAFFfsmk2b4rmidPqddYzWViOOYeO6D0FBIlLG/bvwEn5H68WduFlWl5moW2c5k34MaZKeRLZbeW6QI/V0paKAhQCTQCADdWK3FBBtf5ILgalL5n8u4kB/J5PRctORxEVzqfZQoKcjtqAUh0AX1MnqoL9EUa4LONGM6Xl4Mv5zGSYTs2M85McTHW6PwFVKaCShIKRZCxZNUKAG5VzA02pp5/PYmEtrDyHSVNIbITEWrftg+Cj9T9bGj5YQ2uORCoCcT2Q6Y1nLiY5jBZB9SsEl7vdqtkL/bbev4Dw14OY60w33n0R4ThSY4jrUUoRYUFDc22SAfN3dewcxcIfLvXCccG8Tnvy4wgobdO6o4PkX56L323B3F7g2jgDFhqZ1qTN6Q7itkcqX+8hiQmRFQpReD61dLiRaioixTYJJ8g3V+hwO6v1vKnwH8Hjn1JwZd7pbqg4sfLfcD6B/wB47OYWtWZqnsZp4BqAQG3pCbCpAHxHvo2v7UdzQoA84HcEYqNRUaJU5v2f/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAYFB//EACsQAAEDAgUDBAEFAAAAAAAAAAECAwQFEQAGEiExB0FREyJhcRQVJDJigf/EABcBAQADAAAAAAAAAAAAAAAAAAMCBAb/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADERIhMUEEE2Gx/9oADAMBAAIRAxEAPwAeQMn0KsUChepS4CpLzDCSpTCSXFKSOTa9+ST4BOKJ/p1QVVkxolJgSDYLShmKj3JIuFWNrDtv3BG9r4L00ps6XkymyKcl5JjRWXQ6E30KCALjzso3Hi/HONSKuc/OflJmsNOsoKZTbyC6lBC1HdOpJCDfUFWtuONr5O+20Phf2W6KUdMtzMSRkakJqRbXRqY2kqsErYQ3v4OoC3+4F1LyHSKBlypPIp1M1mEpbam0NlSFelcnbcWPBx0N6o/qkZMuW/S5CGEBv9k0RuP4hR1kbfAHOITqF+bMyrV5r6FlhUR5tCyLD2t8D6FsIjsHAJ7gOqqcDeN6eVCczk6itNtoDJgsg3A940g2OA5okevmaU3NkOR3/QQ5BWgghAsL2+CoKB7kD6xi5Or1GZy1SESa3AadTGaQW1yUgpISAQRfbGxXq7k6pxmIsuo050N3CHUS0pW2TyQq/nexBHxhApFjal2PySou9bajJ9FRlQ23FOOCPMZJLT8ZVkqF76fr4OKnNWapNU6VSEpJQw9T3ypvsFAKSqwvxdJt94mDS8oCoJQrOUUxCArSXmyobca9Vuf64bmrMGWV5NqdOhT6cgtQ3m2ENSEq1e02HNySTz3JwrqCVCjsdRfJvFmCOZ//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Apex Legend</div>
-                                                <div class="unlocked">22 Sept 2023</div>
+                                                <div>A Rare Realm</div>
+                                                <div class="unlocked">21 Oct 2022</div>
                                             </div>
-                                            <div class="description">Win a game with 8 different Legends</div>
+                                            <div class="description">Some very special seeds can lead to unique and rewarding experiences. Can you find one?</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACoQAAEEAQMDBAEFAQAAAAAAAAECAwQRBQYSIQAHMRMUIkFxI0JRUmGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAQB/8QAGhEAAwEBAQEAAAAAAAAAAAAAAQIDABEhEv/aAAwDAQACEQMRAD8Ayr1aOzvbuMpTOf1WI4aT6bsSBJUUpd3KAS47QJCD5SmvnX9fIrtloYvzIMrJtsrmyigwIUhJKAFGg++AL9MeUoNb65+PmmaJj6ij6yyLMiU0442N78x69jqCukqAIHkjgkcVQ+up7UI8XURmrdLnmSu8HbqPTmodKJYLawt2XBjHchG1RC3GeASkEWpNfC7Hx8RXrTmt0Z13WUNtE1mO4pCnWJjVhDaUEkgAfuJ4/wBv89TzunoIMSH52IDHvG0KdnQo6SlIpRCnWk/Q4tSBe2wR8T8UaE+NlpqvCp7j/ZPNZZcX11uQXHGWFxmZDk1tt70xX6KwTurxsXR2+DaTwzYrUGek6um5STFdTLUEx/ZIR6i20tg0VfZ8qs1Rv646zZi8lNxM1EvGynoslFhLrSilQsUeeq3oLue3KyUJjUrLPukteimepRt43wHSTxzVKFV4PB4VmT6uyNFUn7Hc6ZrM5pGqIeQTFkKfSotmCU+mtzf9p/4B4r88npe7y5nKRMU37d6IhTrKGZD6ZyHHaKaLTSQdwT53KoX48XuHdwO5zUXJS2NNMs+7U16K8ghRtlV2oMkH+btXI+hwLMhymRmZWa5LyUl2VJcrc66oqUaFDnpKZHrZaisR8Dm//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAQIE/8QAKRAAAQQBBAICAgEFAAAAAAAAAQIDBAURAAYSIRMxB0EVUZEUM2Gx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAABBQP/xAAnEQABAgQFBAMBAAAAAAAAAAABAhEAAwQhBRITMUFRYYGhMnGx8P/aAAwDAQACEQMRAD8Aj9n01FZbe2+BV0suVEYaelwVQksyHSpsEKU5khacHPRHWSU5HSKvYO1LG5LaqeviR2VeP+oZr0cC6R3k8SnGSAEq/wAHBJzov2NPZeqoNvYxmmxVQ2ZDkjHYDbSW2205+1cU577zpT+HNzRbvbcqwMhaZyJDinYipBSwjKioFQJwkKH3j3nU7HdamphmW6VK4DEBnykjcE2tfiLujoU6Qwdv2NDsDatXchv8NXyo7ygjzv1yOHlx1ghHEjIwQOsZPRGqBuqho4O1d04pqqPMfYXJixGoSXn4yUoIUvmMBCMlOCVHHWE5UNI3y3uaDSUUGwdkOLlKlNKTERIKmFgKCiUgHCgkfePeNF/yHKYpot1Mq0ICrKG66hxIwHmHkFKkrIxniSCB6BA940sCE+ppjlWyUq5F2b4gnYA9bjaEZBn06gwcD8ihxJ5T8YNRuRC3pTaZByf7SUApH84/jXdsp+6qZSrGtcfr2gyryOFI4un6SQeiARgZ/eoeolMVlNXym7CCtpbaPM0HkeZlxPo8Scn/AJ1pU2tfbdnbafW5dVDU1Z5yI8h5LXNJJyMHCVK9euOP2dVMZk1M6n05KUqBAcE38Pb2/aM5mJyNNCiTlNttiODz6bvFD3q/dW0pNjZOP2DRZT43AkcWz9pAHQBJwcfrWJs38j8SSW3XCXK99TLClH22Uk8f96Qtw3u14e3WVuX1WqUgc4zERaHygAjAIB4oPv3y0V3M9i023LWZ0JiM0ham4/nSXZLquiojOc4A+gOsaMFk1Mmn05yUpABYA38taCXicjTWQbC2xuT0/rfUf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Well-Rounded</div>
-                                                <div class="unlocked">30 Jul 2023</div>
+                                                <div>Fae Flayer</div>
+                                                <div class="unlocked">14 Apr 2022</div>
                                             </div>
-                                            <div class="description">Deal 5,000 damage with 8 different Legends</div>
+                                            <div class="description">Defeat the Empress of Light, responsible for all those flashy lights and glitter.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+10 others...</div>
+                                            <div class="description ellipsis">+87 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2686,7 +2686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2024, 16:13:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Feb 2024, 17:12:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
