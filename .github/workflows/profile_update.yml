@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push: { branches: ["main"] }
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -70,6 +70,7 @@ jobs:
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
+          plugin_steam_achievements_limit: 1
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_user: "76561199198628096"
 
