@@ -61,21 +61,21 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           plugin_fortune: yes
+          # plugin_lines: yes
+          # plugin_lines_history_limit: 1
+          # plugin_lines_repositories_limit: 4
+          # plugin_lines_sections: history
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 350
           plugin_activity_visibility: all
-          plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: commit
           plugin_steam: yes
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_sections: player, recently-played
           plugin_steam_user: "76561199198628096"
 
       - name: ✨ Setup repo
