@@ -6,11 +6,11 @@
 <br clear="all" /><br clear="all" />
 
 <div>
-    <a href="#"><img align="left" width="47.5%" alt="🥂" src="/res/svg/general.svg"></a></div>
-    <a href="#"><img align="right" width="47.5%" alt="🥂" src="/res/svg/addon.svg"></a></div>
+    <a href="#"><img align="left" width="47.5%" alt="✨" src="/res/svg/general.svg"></a></div>
+    <a href="#"><img align="right" width="47.5%" alt="✨" src="/res/svg/addon.svg"></a></div>
 </div>
 
-<div align="center" dir="auto"><a href="https://www.pixiv.net/artworks/114347951"><img width="95%" alt="🥂" src="/res/img/thcover.png"></a><p> ✨ 静かなる雨よ ✨
+<div align="center" dir="auto"><a href="https://www.pixiv.net/artworks/114347951"><img width="98%" alt="✨" src="/res/img/thcover.png"></a><p> ✨ 静かなる雨よ ✨
 
 ✨ 星屑の輝きも忘れ去られ ✨
 

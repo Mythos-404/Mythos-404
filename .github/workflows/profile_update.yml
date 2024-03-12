@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 🥂 General
+      - name: ✨ General
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
@@ -48,7 +48,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
-      - name: 🥂 Addon
+      - name: ✨ Addon
         uses: lowlighter/metrics@latest
         with:
           filename: addon.svg
@@ -71,13 +71,13 @@ jobs:
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_user: "76561199198628096"
 
-      - name: 🥂 Setup repo
+      - name: ✨ Setup repo
         uses: actions/checkout@v4
-      - name: 🥂 Reorganize resources
+      - name: ✨ Reorganize resources
         run: |
           git pull --no-edit && for file in *.svg; do mv -fv "${file}" ./res/svg/; done
 
-      - name: 🥂 Commit changes
+      - name: ✨ Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "[Actions] chore: reorganize assets"
