@@ -8,9 +8,11 @@
 <br clear="all" /><br clear="all" />
 
 <div>
-    <a href="#"><img align="left" width="47.5%" alt="✨" src="/res/svg/general.svg"></a>
-    <a href="#"><img align="right" width="47.5%" alt="✨" src="/res/svg/addon.svg"></a>
+    <a href="#"><img align="left" width="47%" alt="✨" src="/res/svg/general.svg"></a>
+    <a href="#"><img align="right" width="47%" alt="✨" src="/res/svg/addon.svg"></a>
 </div>
+
+<br clear="all" /><br clear="all" />
 
 <div align="center" dir="auto">
     <a href="https://www.pixiv.net/artworks/114347951">
