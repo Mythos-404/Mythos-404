@@ -47,9 +47,9 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_music: yes
-          plugin_music_playlist: >-
-            https://music.youtube.com/playlist?list=PLxgby7M8D03YA3hbV5ZD60S9p2sv1W9tr
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: ✨ Addon
         uses: lowlighter/metrics@latest
@@ -76,9 +76,9 @@ jobs:
           plugin_steam_achievements_limit: 1
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_user: "76561199198628096"
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_music: yes
+          plugin_music_playlist: >-
+            https://music.youtube.com/playlist?list=PLxgby7M8D03YA3hbV5ZD60S9p2sv1W9tr
 
       - name: ✨ Setup repo
         uses: actions/checkout@v4
