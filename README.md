@@ -1,6 +1,7 @@
 <div alian="center" dir="auto"><p align="center">✨ 普通の人間だ ✨</p></div>
 
 <div align="center">
+    &nbsp;
     <img width="45%" alt="" src="https://github-readme-stats.zohan.tech/api?username=Mythos-404&show_icons=true&count_private=true&theme=tokyonight">
     &nbsp;
     &nbsp;
