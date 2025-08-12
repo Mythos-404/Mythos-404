@@ -5,7 +5,7 @@
     <img width="45%" alt="" src="https://github-readme-stats.zohan.tech/api?username=Mythos-404&show_icons=true&count_private=true&theme=tokyonight">
     &nbsp;
     &nbsp;
-    <img width="48%" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Mythos-404&theme=tokyonight">
+    <img width="47.53%" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=Mythos-404&theme=tokyonight&mode=weekly">
 </div>
 
 <br clear="all" /><br clear="all" />
