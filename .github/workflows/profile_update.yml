@@ -67,9 +67,10 @@ jobs:
           plugin_fortune: yes
           plugin_lines: yes
           # History chart crawls contributor stats per repo; without a skip list
-          # the token can see every owned/collaborator repo, which can hang then
-          # leave plugins.lines without sections and crash classic lines.ejs on
-          # `.includes`. Pattern-skip everything, then allow a few owned repos.
+          # the token can see collaborator/org repos too, which can hang then leave
+          # plugins.lines without sections and crash classic lines.ejs on `.includes`.
+          # Pattern-skip everything, then allow all Mythos-404/* handles (public and
+          # private the token can see). See lowlighter/metrics @use.patterns docs.
           plugin_lines_delay: 30
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
@@ -77,10 +78,7 @@ jobs:
           repositories_skipped: |
             @use.patterns
             */*
-            +Mythos-404/xmake.nvim
-            +Mythos-404/nvimdots
-            +Mythos-404/nvim
-            +Mythos-404/dotfiles
+            +Mythos-404/*
           plugin_steam: yes
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
