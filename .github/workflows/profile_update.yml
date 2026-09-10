@@ -47,6 +47,23 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          # History chart on General (documented pairing with base.repositories).
+          # classic lines.ejs crashes the whole step when plugins.lines is an
+          # error object without sections (`.sections.includes`); leaving it on
+          # Addon made fortune/steam/music fail with it. Scope crawls to owned
+          # Mythos-404/* (public + private the token can see). Exclude xmake.nvim:
+          # contributor-stats includes author:null, and lines treats
+          # data.account="user" as org mode so it throws on .login — same crash.
+          plugin_lines: yes
+          plugin_lines_delay: 30
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: history
+          repositories_skipped: |
+            @use.patterns
+            */*
+            +Mythos-404/*
+            -Mythos-404/xmake.nvim
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
@@ -65,25 +82,8 @@ jobs:
           config_timezone: Asia/Shanghai
 
           plugin_fortune: yes
-          plugin_lines: yes
-          # History chart crawls contributor stats per repo; without a skip list
-          # the token can see collaborator/org repos too, which can hang then leave
-          # plugins.lines without sections and crash classic lines.ejs on `.includes`.
-          # Pattern-skip everything, then allow all Mythos-404/* handles (public and
-          # private the token can see). Exclude xmake.nvim: its contributor-stats
-          # payload includes author:null (anonymous commit), and lowlighter/metrics
-          # lines treats data.account="user" as organization mode, so it iterates
-          # every contributor and crashes on contributor.author.login — same
-          # lines.ejs `.includes` failure mode. See @use.patterns docs.
-          plugin_lines_delay: 30
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: history
-          repositories_skipped: |
-            @use.patterns
-            */*
-            +Mythos-404/*
-            -Mythos-404/xmake.nvim
+          # plugin_lines removed from Addon so lines.ejs template bugs cannot
+          # fail this step; history chart is rendered on General instead.
           plugin_steam: yes
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
